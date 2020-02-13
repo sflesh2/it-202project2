@@ -20,3 +20,11 @@ body{overflow-x:hidden;font-family:'Roboto Slab',-apple-system,BlinkMacSystemFon
     height: 50vh;
     min-height: 250px;
 }
+
+#mainNav{
+    background-color: #001E62; 
+}
+
+#navbar-shrink{
+    background-color: #001E62;
+}
