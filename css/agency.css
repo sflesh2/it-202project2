@@ -28,3 +28,10 @@ body{overflow-x:hidden;font-family:'Roboto Slab',-apple-system,BlinkMacSystemFon
 #navbar-shrink{
     background-color: #001E62;
 }
+
+.fit-images {
+  width: 100%;
+  height: 100%;
+  max-width: auto;
+  max-height: 150px;
+}
